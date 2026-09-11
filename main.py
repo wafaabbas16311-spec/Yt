@@ -9,7 +9,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 
 # --- CONFIGURATION ---
-VIDEO_URL = "https://www.youtube.com/watch?v=YOUR_VIDEO_ID"  # Replace with your URL
+VIDEO_URL = "https://youtu.be/GaHmkV-Lcx8"  # Replace with your URL
 TARGET_HOURS = 100
 NUM_INSTANCES = 5  # Number of parallel browser instances
 TOTAL_SECONDS_NEEDED = TARGET_HOURS * 3600
